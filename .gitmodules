@@ -1,0 +1,3 @@
+[submodule "comn"]
+	path = src/comn
+	url = http://14.50.43.60:9090/ntancis/front/com/tancis-web-com.git
